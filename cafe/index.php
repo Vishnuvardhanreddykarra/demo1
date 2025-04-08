@@ -24,8 +24,8 @@
 	<div class="topnav">
 		<a href="index.php">Home</a>
 		<a href="#aboutUs">About Us</a>
-		<a href="#contactUs">Contact Us</a>
-		<a href="menu.php">Menu</a>
+		<a href="#contactUs">Contact me</a>
+		<a href="menu.php">order here</a>
 		<a href="orderHistory.php">Order History</a>
 	</div>
 	<hr>
