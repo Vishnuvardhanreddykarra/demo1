@@ -34,7 +34,7 @@
 		<div id="mainPictures" class="center">
 			<table>
 				<tr>
-					<td><img src="images/Coffee-and-Pastries.jpg" height=auto width="490"></td>
+					<td><img src="C:\Users\91852\Downloads\chicken.jpeg" height=auto width="490"></td>
 					<td><img src="images/Cake-Vitrine.jpg" height=auto width="450"></td>
 				</tr>
 			</table>
