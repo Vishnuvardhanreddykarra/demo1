@@ -10,7 +10,7 @@
 
 	<div id="header" class="mainHeader">
 		<hr>
-		<div class="center">vishnu reddy CAFE&eacute;</div>
+		<div class="center">vishnu CAFE&eacute;</div>
 	</div>
 	<br>
 	<?php
